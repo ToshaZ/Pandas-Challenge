@@ -1,0 +1,9 @@
+Include a written description of three observable trends based on the data.
+
+1. There is a significantly greater population of males who play the fantasy game Heroes of Pymoli.
+
+2. The total purchases for males seems as if they would spend more money but when analyzing the average total per person females on average spend about $0.40 more than males.
+
+3. The majority of the age population playing is between 15 and 30 years old with the most significant group being between the ages of 20-25. 
+
+4. Although 20-25 age group has the majority of players, the ages that spend the most on average are ages 35-40 at $4.76 and 10 and under at $4.54.
